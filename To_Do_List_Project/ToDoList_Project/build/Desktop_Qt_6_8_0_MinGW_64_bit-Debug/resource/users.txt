@@ -1,0 +1,2 @@
+user:pass
+Bob:123

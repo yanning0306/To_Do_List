@@ -1,0 +1,11 @@
+release/loginwindow.o
+release/main.o
+release/mainwindow.o
+release/taskdialog.o
+release/task.o
+release/taskmanager.o
+release/user.o
+release/notification.o
+release/moc_loginwindow.o
+release/moc_mainwindow.o
+release/moc_taskdialog.o
